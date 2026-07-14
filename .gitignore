@@ -1,0 +1,28 @@
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+android/app/build/
+android/*.iml
+android/**/*.iml
+android/.gradle
+
+# Windows/Electron
+windows/node_modules/
+windows/dist/
+windows/build/
+windows/.env.local
+windows/.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Misc
+*.log
+*.apk
+*.exe
